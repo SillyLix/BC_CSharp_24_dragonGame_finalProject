@@ -12,3 +12,18 @@ C:\Tiedostot\C#\Finel Exercise of C#\Finel Exercise of C#\obj\Debug\net8.0\refin
 C:\Tiedostot\C#\Finel Exercise of C#\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.pdb
 C:\Tiedostot\C#\Finel Exercise of C#\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.genruntimeconfig.cache
 C:\Tiedostot\C#\Finel Exercise of C#\Finel Exercise of C#\obj\Debug\net8.0\ref\Finel Exercise of C#.dll
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\bin\Debug\net8.0\Finel Exercise of C#.exe
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\bin\Debug\net8.0\Finel Exercise of C#.deps.json
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\bin\Debug\net8.0\Finel Exercise of C#.runtimeconfig.json
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\bin\Debug\net8.0\Finel Exercise of C#.dll
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\bin\Debug\net8.0\Finel Exercise of C#.pdb
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.AssemblyInfoInputs.cache
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.AssemblyInfo.cs
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.csproj.CoreCompileInputs.cache
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.sourcelink.json
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.dll
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\refint\Finel Exercise of C#.dll
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.pdb
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\Finel Exercise of C#.genruntimeconfig.cache
+C:\Tiedostot\C#\C--final-project-BC-24\Finel Exercise of C#\obj\Debug\net8.0\ref\Finel Exercise of C#.dll

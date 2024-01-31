@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finel Exercise of C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3667bc2b52d6cf71a39d6c578c9b0d8ca114e4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f1c6bb6a157e01865cb77a78d710de0b6830fbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finel Exercise of C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finel Exercise of C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
